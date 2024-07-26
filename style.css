@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+#Id{
+    font-size: 10vh;
+}
+#buttonId{
+    width: 500px;
+    height: 200px;
+    font-size: 60px;
+    border: 2px, solid, black;
+    border-radius: 20px;
+    box-shadow: 0 0 20px black;
+    cursor: pointer;
+}
